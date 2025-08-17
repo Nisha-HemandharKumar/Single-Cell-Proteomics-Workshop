@@ -40,7 +40,7 @@ library("scater")
 
 ```
 
-The mqScpData is a subset of thedata from the SCoPE2 landmark paper (Specht et al. 2021). The sample annotation also comes from them. It consists of mass spectrometry-based single-cell measurements of approximately 40,000 monocytes and embryonic kidney cells each.
+The mqScpData is a subset of the data from the SCoPE2 landmark paper (Specht et al. 2021). The sample annotation also comes from them. It consists of mass spectrometry-based single-cell measurements of approximately 40,000 monocytes and embryonic kidney cells each.
 
 The raw data contains the following information:\
 *(\@Nisha I decided to explain all of these in more detail here, as we will need them later on, and then we can refer back to them. I also find it easier to understand the data this way. We can, of course, change this if you prefer.)*
